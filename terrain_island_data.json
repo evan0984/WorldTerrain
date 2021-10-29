@@ -1,0 +1,131 @@
+﻿{
+    "terrainID": "c670e3e9-8d4b-409a-9965-e8ca28e21a05",
+    "sizeX": 1500,
+    "sizeY": 1500,
+    "thoughtTerrainName": "Prototype",
+    "thoughtCategory": 0,
+    "thoughtPoints": [
+        {
+            "thoughtID": "70c0c6c2-2de6-492c-8cf5-2d2779f2a270",
+            "x": 0,
+            "y": 0,
+            "height": 0.865,
+            "weight": 1,
+            "heightDisplayText": "2.8K",
+            "weightDisplayText": "538",
+            "thoughtLabel": "Alpha Bravo Charlie",
+            "thoughtUrl": "www.google.com"
+        },
+        {
+            "thoughtID": "47fb2a14-2d85-4615-881a-ff04ac6229a0",
+            "x": 1,
+            "y": 2,
+            "height": 0.623,
+            "weight": 1,
+            "heightDisplayText": "1.4K",
+            "weightDisplayText": "872",
+            "thoughtLabel": "Small Medium Large",
+            "thoughtUrl": "www.amazon.com"
+        },
+        {
+            "thoughtID": "47fb2a14-2d85-4615-881a-ff04ac622222",
+            "x": 1,
+            "y": 1,
+            "height": 0.691,
+            "weight": 1,
+            "heightDisplayText": "1.3K",
+            "weightDisplayText": "822",
+            "thoughtLabel": "Orange Purple Yellow",
+            "thoughtUrl": "www.amazon.com"
+        },
+        {
+            "thoughtID": "47fb2a14-2d85-4615-881a-ff04ac621111",
+            "x": 0,
+            "y": 1,
+            "height": 0.691,
+            "weight": 1,
+            "heightDisplayText": "1.1K",
+            "weightDisplayText": "803",
+            "thoughtLabel": "Orion Cygnus Osiris",
+            "thoughtUrl": "www.amazon.com"
+        },
+        {
+            "thoughtID": "3b6f243a-a9be-473e-b153-6d4a9a59ae3f",
+            "x": 2,
+            "y": 2,
+            "height": 0.773,
+            "weight": 1,
+            "heightDisplayText": "1.9K",
+            "weightDisplayText": "799",
+            "thoughtLabel": "ABC XYZ 123",
+            "thoughtUrl": "www.msn.com"
+        },
+        {
+            "thoughtID": "89e29c4b-5a12-4682-a310-1b75bd6b2a12",
+            "x": 3,
+            "y": 1,
+            "height": 0.614,
+            "weight": 1,
+            "heightDisplayText": "1.1K",
+            "weightDisplayText": "807",
+            "thoughtLabel": "Whiskey Tango Foxtrot",
+            "thoughtUrl": "www.unity.com"
+        },
+        {
+            "thoughtID": "24427dc0-4073-4b4f-ac9e-b44e79fe9817",
+            "x": 2,
+            "y": 3,
+            "height": 0.498,
+            "weight": 1,
+            "heightDisplayText": "1.2K",
+            "weightDisplayText": "622",
+            "thoughtLabel": "Better Stronger Faster",
+            "thoughtUrl": "www.apple.com"
+        },
+        {
+            "thoughtID": "24427dc0-4073-4b4f-ac9e-b44e79fe9123",
+            "x": 1,
+            "y": -2,
+            "height": 0.345,
+            "weight": 0.123,
+            "heightDisplayText": "1.3K",
+            "weightDisplayText": "22",
+            "thoughtLabel": "The California stay at home order was lifted on January 25, 2021, not for scientific but political reasons.",
+            "thoughtUrl": "https://thoughtworld-fe.azurewebsites.net/home/thought/20d570fd-aba8-4f3b-84ca-550b46e88154"
+        },
+        {
+            "thoughtID": "44665dc0-4073-4b4f-ac9e-b44e79fe9123",
+            "x": -1,
+            "y": 0,
+            "height": 1.0,
+            "weight": 1,
+            "heightDisplayText": "2.2K",
+            "weightDisplayText": "735",
+            "thoughtLabel": "West East North South",
+            "thoughtUrl": "www.tesla.com"
+        },
+        {
+            "thoughtID": "44665dc0-4073-4b4f-ac9e-b44e79fe4444",
+            "x": 0,
+            "y": -1,
+            "height": 0.845,
+            "weight": 0.95,
+            "heightDisplayText": "2.4K",
+            "weightDisplayText": "897",
+            "thoughtLabel": "Delta Foxtrot Gamma",
+            "thoughtUrl": "www.tesla.com"
+        },
+        {
+            "thoughtID": "44665dc0-4073-4b4f-ac9e-b44e79fe5555",
+            "x": -1,
+            "y": -2,
+            "height": 0.245,
+            "weight": 1,
+            "heightDisplayText": "1.1K",
+            "weightDisplayText": "913",
+            "thoughtLabel": "Red Green Blue",
+            "thoughtUrl": "www.tesla.com"
+        }
+
+    ]
+}
